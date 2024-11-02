@@ -13,7 +13,7 @@ public class Mavenproject3 {
        if (calificacion > 70 && calificacion <= 79){
            System.out.println("El alumno tiene A");
        }else if(calificacion >=60 && calificacion < 70){
-           System.out.println("EL alumno tiene B");
+           System.out.println("EL alumno tiene cccccccccc");
        }
     }
 }
